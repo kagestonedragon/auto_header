@@ -3,6 +3,8 @@
 Auto_header it's easiest way to create your own header file with prototypes. 
 <b>C Language projects only.</b>
 
+Also try Auto_make. With it, you can write a script that will help automate routine work.
+
 ### Not working
 
 * `Maybe some things :)` Let me know about it.
@@ -34,7 +36,7 @@ Run auto_header with parameters:
 * `-S` — recursive search in directories (only `%.c` files)
 * `-I` — add others header files to the output file (only `%.h` files)
 
-<b>Example</b>
+<b>For example</b>
 ```
 ./auto_header auto_header.h -S ../sources -I core.h
 ```
