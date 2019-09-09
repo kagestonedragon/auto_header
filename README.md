@@ -46,6 +46,8 @@ Run auto_header with parameters:
 
 ### Generated header file
 
+It uses `\t` instead of spaces, because norminette of 42 Ecole :)
+
 ```c
 /*
 ** |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
