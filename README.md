@@ -39,7 +39,7 @@ Run auto_header with parameters:
 ./auto_header auto_header.h -S ../sources -I core.h
 ```
 
-<p align="center">
+<p align="left">
   <img src="/pics/console.png" width="75%" alt="auto_make information"/>
 </p>
 
