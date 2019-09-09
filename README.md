@@ -40,7 +40,7 @@ Run auto_header with parameters:
 ```
 
 <p align="center">
-  <img src="/pics/console.png" width="100%" alt="auto_make information"/>
+  <img src="/pics/console.png" width="75%" alt="auto_make information"/>
 </p>
 
 
