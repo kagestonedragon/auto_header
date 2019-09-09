@@ -3,7 +3,7 @@
 Auto_header it's easiest way to create your own header file with prototypes. 
 <b>C Language projects only.</b>
 
-Also try Auto_make. With it, you can write a script that will help automate routine work.
+Also try <a href="https://github.com/kagestonedragon/auto_make"> Auto_make</a>. With it, you can write a script that will help automate routine work.
 
 ### Not working
 
