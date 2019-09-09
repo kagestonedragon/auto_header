@@ -27,7 +27,7 @@ cp ~/auto_header/auto_header <path to the project directory with header files>
 ### How to use
 
 ```
-./auto_header <output file> -S <sd1> <sd2> ... -I <id1> ...
+./auto_header <output file> -S <sd1> <sd2> ... -I f1.h f2.h ...
 ```
 Run auto_header with parameters:
 * `<output file>` — name of the output file (`%.h file`)
