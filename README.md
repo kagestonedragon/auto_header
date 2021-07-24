@@ -1,5 +1,7 @@
 # Auto_header
 
+`Проект реализовывался в рамках обучения в "Школе 21". С его помощью удалось избавиться от рутины ручной генерации примитивных хедеров для проектов на си.`
+
 Auto_header it's easiest way to create your own header file with prototypes. 
 <b>C Language projects only.</b>
 
